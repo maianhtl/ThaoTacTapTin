@@ -1,0 +1,11 @@
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.exe.config
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.pdb
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.fMainForm.resources
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.pdb
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\ThongTinSinhVien.txt

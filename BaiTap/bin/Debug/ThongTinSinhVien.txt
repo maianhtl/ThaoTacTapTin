@@ -1,0 +1,4 @@
+﻿2312569,Lê Thị Mai,Anh,CTK47A,Nữ,09/09/2005,1234567890,032165498,Đà Lạt,Lập trình CSDL,Lập trình mạng
+2312578,Lê,Anh,CTK49A,Nam,09/12/2005,1234567890,032165498,Đà Lạt,Đồ án cơ sở,An toàn và bảo mật hệ thống
+2312589,NGuyễn Thị,A,CTK47A,Nữ,09/09/2005,1234567890,032165498,Đà Lạt,Lập trình CSDL,Lập trình mạng
+2312540,Trần,Lê,CTK47A,Nữ,09/09/2005,1234567890,032165498,Đà Lạt,Lập trình mạng,Hệ điều hành

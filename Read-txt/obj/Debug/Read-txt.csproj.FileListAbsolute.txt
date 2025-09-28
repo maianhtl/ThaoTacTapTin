@@ -1,0 +1,8 @@
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\fileText.txt
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.pdb

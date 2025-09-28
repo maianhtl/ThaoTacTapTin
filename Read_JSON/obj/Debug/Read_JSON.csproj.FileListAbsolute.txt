@@ -1,0 +1,28 @@
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.fMainForm.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.Properties.Resources.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.GenerateResource.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Newtonsoft.Json.dll
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Newtonsoft.Json.xml
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.Up2Date
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\students.json
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\students.json
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.exe.config
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Read_JSON.pdb
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.fMainForm.resources
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.Properties.Resources.resources
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.GenerateResource.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.csproj.CopyComplete
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read_JSON\obj\Debug\Read_JSON.pdb

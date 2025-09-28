@@ -1,0 +1,11 @@
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\fileText.txt
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.exe.config
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Read-txt.pdb
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\ReadWrite-txt.csproj.AssemblyReference.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\ReadWrite-txt.csproj.CoreCompileInputs.cache
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\ReadWrite-txt.csproj.CopyComplete
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.exe
+C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\Read-txt\obj\Debug\Read-txt.pdb
