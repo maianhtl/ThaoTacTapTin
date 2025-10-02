@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E05A86C6-6BDC-4E61-A8DE-8A5D064618DA}|SaveToXmlFile\\SaveToXmlFile.csproj|a:\\\u0111\u1EA1i h\u1ECDc hay h\u1ECDc \u0111\u1EA1i\\n\u0103m 3\\h\u1ECDc k\u00EC 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_lethimaianh_chude3_thaotactaptin\\savetoxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E05A86C6-6BDC-4E61-A8DE-8A5D064618DA}|SaveToXmlFile\\SaveToXmlFile.csproj|solutionrelative:savetoxmlfile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B707222-3295-4900-B55C-3CD12FB11FEF}|Write_XML\\Write_XML.csproj|a:\\\u0111\u1EA1i h\u1ECDc hay h\u1ECDc \u0111\u1EA1i\\n\u0103m 3\\h\u1ECDc k\u00EC 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_lethimaianh_chude3_thaotactaptin\\write_xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B707222-3295-4900-B55C-3CD12FB11FEF}|Write_XML\\Write_XML.csproj|solutionrelative:write_xml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E05A86C6-6BDC-4E61-A8DE-8A5D064618DA}|SaveToXmlFile\\SaveToXmlFile.csproj|a:\\\u0111\u1EA1i h\u1ECDc hay h\u1ECDc \u0111\u1EA1i\\n\u0103m 3\\h\u1ECDc k\u00EC 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_lethimaianh_chude3_thaotactaptin\\savetoxmlfile\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E05A86C6-6BDC-4E61-A8DE-8A5D064618DA}|SaveToXmlFile\\SaveToXmlFile.csproj|solutionrelative:savetoxmlfile\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B707222-3295-4900-B55C-3CD12FB11FEF}|Write_XML\\Write_XML.csproj|a:\\\u0111\u1EA1i h\u1ECDc hay h\u1ECDc \u0111\u1EA1i\\n\u0103m 3\\h\u1ECDc k\u00EC 1\\ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_lethimaianh_chude3_thaotactaptin\\write_xml\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B707222-3295-4900-B55C-3CD12FB11FEF}|Write_XML\\Write_XML.csproj|solutionrelative:write_xml\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,26 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Book.cs",
-              "DocumentMoniker": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\SaveToXmlFile\\Book.cs",
-              "RelativeDocumentMoniker": "SaveToXmlFile\\Book.cs",
-              "ToolTip": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\SaveToXmlFile\\Book.cs",
-              "RelativeToolTip": "SaveToXmlFile\\Book.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAywA4AAAAZAAAAAAAAAA==",
+              "DocumentMoniker": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\Write_XML\\Book.cs",
+              "RelativeDocumentMoniker": "Write_XML\\Book.cs",
+              "ToolTip": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\Write_XML\\Book.cs",
+              "RelativeToolTip": "Write_XML\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T05:22:06.163Z",
+              "WhenOpened": "2025-10-02T02:24:58.589Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\SaveToXmlFile\\Program.cs",
-              "RelativeDocumentMoniker": "SaveToXmlFile\\Program.cs",
-              "ToolTip": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\SaveToXmlFile\\Program.cs",
-              "RelativeToolTip": "SaveToXmlFile\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAlwBsAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\Write_XML\\Program.cs",
+              "RelativeDocumentMoniker": "Write_XML\\Program.cs",
+              "ToolTip": "A:\\\u0110\u1EA0I H\u1ECCC HAY H\u1ECCC \u0110\u1EA0I\\N\u0103m 3\\h\u1ECDc k\u00EC 1\\Ph\u00E1t tri\u1EC3n \u1EE9ng d\u1EE5ng desktop\\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\\Write_XML\\Program.cs",
+              "RelativeToolTip": "Write_XML\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwDcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-27T05:20:04.33Z",
+              "WhenOpened": "2025-10-01T09:20:47.508Z",
               "EditorCaption": ""
             }
           ]

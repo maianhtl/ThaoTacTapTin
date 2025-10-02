@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <ISBN>9831123212</ISBN>
+    <Title>Visual C# Programming</Title>
+    <Author>Mahesh Chand</Author>
+    <Price>44.95</Price>
+    <YearPublished>2002</YearPublished>
+  </Book>
+  <Book>
+    <ISBN>9781484234</ISBN>
+    <Title>Pro Entity Framework Core 1</Title>
+    <Author>Adam Freeman</Author>
+    <Price>39.99</Price>
+    <YearPublished>2017</YearPublished>
+  </Book>
+</ArrayOfBook>
