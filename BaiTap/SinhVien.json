@@ -1,7 +1,7 @@
 {
   "sinhvien": [
     {
-      "mssv": "2312569",
+      "mssv": "2310569",
       "hovatenlot": "Lê Thị Mai Anh",
       "ten": "Anh",
       "gioitinh": "nữ",
@@ -14,11 +14,11 @@
     },
 
     {
-      "mssv": "2312570",
+      "mssv": "2210570",
       "hovatenlot": "Lê Anh",
       "ten": "Mai",
       "gioitinh": "nam",
-      "ngaysinh": "1/19/2005",
+      "ngaysinh": "1/19/2003",
       "lop": "CTK",
       "socmnd": "985658764",
       "sodt": "0897628467",
@@ -26,11 +26,11 @@
       "monhoc": [ "Đồ án cơ sở","An toàn và bảo mật hệ thống" ]
     },
     {
-      "mssv": "2312571",
+      "mssv": "1910571",
       "hovatenlot": "Lê",
       "ten": "Mai",
       "gioitinh": "nữ",
-      "ngaysinh": "6/23/2005",
+      "ngaysinh": "6/23/2001",
       "lop": "CTK",
       "socmnd": "42342264",
       "sodt": "096453284732",

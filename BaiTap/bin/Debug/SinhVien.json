@@ -1,5 +1,18 @@
-﻿{
+{
   "sinhvien": [
+    {
+      "mssv": "2312569",
+      "hovatenlot": "Lê Thị Mai Anh",
+      "ten": "Anh",
+      "gioitinh": "nữ",
+      "ngaysinh": "9/9/2005",
+      "lop": "ACD2",
+      "socmnd": "234567689",
+      "sodt": "0987654321",
+      "diachi": "Lâm Đồng",
+      "monhoc": [ "Đồ án cơ sở","Mạng máy tính" ]
+    },
+
     {
       "mssv": "2312570",
       "hovatenlot": "Lê Anh",
@@ -10,10 +23,7 @@
       "socmnd": "985658764",
       "sodt": "0897628467",
       "diachi": "Lâm Đồng",
-      "monhoc": [
-        "Đồ án cơ sở",
-        "An toàn và bảo mật hệ thống"
-      ]
+      "monhoc": [ "Đồ án cơ sở","An toàn và bảo mật hệ thống" ]
     },
     {
       "mssv": "2312571",
@@ -25,25 +35,7 @@
       "socmnd": "42342264",
       "sodt": "096453284732",
       "diachi": "Sài Gòn",
-      "monhoc": [
-        "Hệ điều hành",
-        "Lập trình mạng"
-      ]
-    },
-    {
-      "mssv": "8587585",
-      "hovatenlot": "u",
-      "ten": "h",
-      "gioitinh": "nam",
-      "ngaysinh": "10/6/2025",
-      "lop": "ACD2",
-      "socmnd": "346346363",
-      "sodt": "6356.346.363",
-      "diachi": "eyeye",
-      "monhoc": [
-        "Mạng máy tính",
-        "Hệ điều hành"
-      ]
+      "monhoc": [ "Hệ điều hành","Lập trình mạng" ]
     }
   ]
 }
