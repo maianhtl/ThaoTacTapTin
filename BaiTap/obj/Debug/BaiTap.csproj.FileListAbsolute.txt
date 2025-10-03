@@ -9,3 +9,19 @@ C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Deb
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.exe
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.pdb
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\ThongTinSinhVien.txt
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\ThongTinSinhVien.txt
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\SinhVien.json
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.exe.config
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\BaiTap.pdb
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\Newtonsoft.Json.dll
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\bin\Debug\Newtonsoft.Json.xml
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.AssemblyReference.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.fMainForm.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.fTimKiem.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.Properties.Resources.resources
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.GenerateResource.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.CoreCompileInputs.cache
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.csproj.Up2Date
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.exe
+A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\BaiTap\obj\Debug\BaiTap.pdb

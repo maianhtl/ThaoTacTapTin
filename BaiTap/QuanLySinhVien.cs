@@ -8,7 +8,6 @@ namespace BaiTap
 {
     public class QuanLySinhVien
     {
-        public List<student> DSSV = new List<student>();
-
+        public List<student> sinhvien { get; set; }
     }
 }

@@ -1,0 +1,49 @@
+﻿{
+  "sinhvien": [
+    {
+      "mssv": "2312570",
+      "hovatenlot": "Lê Anh",
+      "ten": "Mai",
+      "gioitinh": "nam",
+      "ngaysinh": "1/19/2005",
+      "lop": "CTK",
+      "socmnd": "985658764",
+      "sodt": "0897628467",
+      "diachi": "Lâm Đồng",
+      "monhoc": [
+        "Đồ án cơ sở",
+        "An toàn và bảo mật hệ thống"
+      ]
+    },
+    {
+      "mssv": "2312571",
+      "hovatenlot": "Lê",
+      "ten": "Mai",
+      "gioitinh": "nữ",
+      "ngaysinh": "6/23/2005",
+      "lop": "CTK",
+      "socmnd": "42342264",
+      "sodt": "096453284732",
+      "diachi": "Sài Gòn",
+      "monhoc": [
+        "Hệ điều hành",
+        "Lập trình mạng"
+      ]
+    },
+    {
+      "mssv": "8587585",
+      "hovatenlot": "u",
+      "ten": "h",
+      "gioitinh": "nam",
+      "ngaysinh": "10/6/2025",
+      "lop": "ACD2",
+      "socmnd": "346346363",
+      "sodt": "6356.346.363",
+      "diachi": "eyeye",
+      "monhoc": [
+        "Mạng máy tính",
+        "Hệ điều hành"
+      ]
+    }
+  ]
+}

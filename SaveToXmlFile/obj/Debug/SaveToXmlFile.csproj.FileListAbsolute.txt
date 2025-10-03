@@ -1,11 +1,3 @@
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\SaveToXmlFile.exe.config
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\SaveToXmlFile.exe
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\SaveToXmlFile.pdb
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\obj\Debug\SaveToXmlFile.csproj.AssemblyReference.cache
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\obj\Debug\SaveToXmlFile.csproj.CoreCompileInputs.cache
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\obj\Debug\SaveToXmlFile.exe
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\obj\Debug\SaveToXmlFile.pdb
-A:\ĐẠI HỌC HAY HỌC ĐẠI\Năm 3\học kì 1\Phát triển ứng dụng desktop\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\books.xml
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\books.xml
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\SaveToXmlFile.exe.config
 C:\Users\PC602\Downloads\2312569_LeThiMaiAnh_ChuDe3_ThaoTacTapTin\SaveToXmlFile\bin\Debug\SaveToXmlFile.exe
